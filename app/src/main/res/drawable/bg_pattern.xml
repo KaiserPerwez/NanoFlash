@@ -1,0 +1,3 @@
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/dark_brick_wall_comp"
+    android:tileMode="repeat" />
